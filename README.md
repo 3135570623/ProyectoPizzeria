@@ -38,7 +38,8 @@ Herramientas utilizadas
 Verificar el historial del repositorio
 Revisar en GitHub que el historial muestre los commits realizados por cada integrante, como evidencia del trabajo colaborativo.
 
-Imagenes:
+Link del video explicativo
+https://youtube.com/shorts/tIbibuKUzR4?feature=share
 
 
 
